@@ -1,0 +1,19 @@
+{
+    "name": "Tapzy.Tests",
+    "rootNamespace": "Tapzy.Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "Tapzy.Contract",
+        "Tapzy.Core",
+        "Tapzy.GameKit",
+        "Tapzy.UI"
+    ],
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "autoReferenced": false
+}

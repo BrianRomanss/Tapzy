@@ -1,0 +1,14 @@
+{
+    "name": "Tapzy.Editor",
+    "rootNamespace": "Tapzy.Editor",
+    "references": [
+        "Tapzy.Core",
+        "Tapzy.GameKit",
+        "Tapzy.Hub",
+        "Tapzy.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "autoReferenced": false
+}

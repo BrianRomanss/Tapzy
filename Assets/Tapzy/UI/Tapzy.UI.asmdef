@@ -1,0 +1,9 @@
+{
+    "name": "Tapzy.UI",
+    "rootNamespace": "Tapzy.UI",
+    "references": [
+        "UnityEngine.UI",
+        "Unity.InputSystem"
+    ],
+    "autoReferenced": false
+}

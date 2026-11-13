@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.TicTacToe",
+    "rootNamespace": "Tapzy.Games.TicTacToe",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Boot.unity
+    guid: a8b017acfa8dfd542856c9f03c388810
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Hub.unity
+    guid: 27bb009d4e8b88f489726d354769788a
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_LaneRush.unity
+    guid: 66f1ac51849a32847bdc3e0d429a6ef9
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_ColourSnap.unity
+    guid: 71b94bf9c68fd1c4ca8643e878dfabd0
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_JuiceSlash.unity
+    guid: 2db56a47989c8e3468faba8e973d1a20
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_BubbleBurst.unity
+    guid: d69e0b05100cc65449388380ef6f15fa
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_BladeSpin.unity
+    guid: 1dbdd39e8765ee049ad024d9306bb5d0
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_BlockFit.unity
+    guid: 20d70ff8ff549594792fd26090f49f37
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_GemRush.unity
+    guid: ba3c1daeb754cd94590041afc47c717e
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_Ludo.unity
+    guid: a8b8f13196f5dff4cad265e7fd21fe37
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_AirHockey.unity
+    guid: 284a2b265011e9e4aadf02235ed80f0e
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_PenaltyShootout.unity
+    guid: b7b4708ee8937e54ca4797a74e669065
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_FourInARow.unity
+    guid: aee38458969939c44897d3aa76443d12
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_RaceDash.unity
+    guid: 2e1921bf4c5573b4c9795fdd155b5d66
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_Carrom.unity
+    guid: c7909e5083674c94eb7408ae0277c195
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_Pool.unity
+    guid: f333e9271dd4eb546ae1763a220dd709
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_SnakesLadders.unity
+    guid: 3586c65071af5a4469c0b30ffe440d1f
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_TicTacToe.unity
+    guid: d20e3a67d4d1f75489495737efa0ddf5
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_DotsBoxes.unity
+    guid: 1ab8dc9955a20c94483813bfad4e6d17
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_CricketChase.unity
+    guid: 82e44e5de9ed9a440a5b49029ebcbdfb
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_TapBattle.unity
+    guid: 89eebbe13d430b54d860bacdade7a8a4
+  - enabled: 1
+    path: Assets/Tapzy/Scenes/Game_QuizDuel.unity
+    guid: 10248c8f695403441868ec65a22e3082
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

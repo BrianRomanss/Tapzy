@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 952844fef224cdb498eabbb6d2148a9c, type: 3}
+  m_Name: lane_rush
+  m_EditorClassIdentifier: 
+  id: lane_rush
+  title: Lane Rush
+  kind: Arcade
+  sceneName: Game_LaneRush
+  tileColour: {r: 1, g: 0.36078432, b: 0.47843137, a: 1}
+  icon: {fileID: 0}
+  order: 1
+  maxScorePerSecond: 60
+  scoreBase: 0
+  minDuration: 1.5
+  missionScore: 500

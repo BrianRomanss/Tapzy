@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.Carrom",
+    "rootNamespace": "Tapzy.Games.Carrom",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

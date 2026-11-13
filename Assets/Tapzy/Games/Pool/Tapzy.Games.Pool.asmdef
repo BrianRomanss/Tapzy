@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.Pool",
+    "rootNamespace": "Tapzy.Games.Pool",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

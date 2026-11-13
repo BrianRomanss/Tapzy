@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.QuizDuel",
+    "rootNamespace": "Tapzy.Games.QuizDuel",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

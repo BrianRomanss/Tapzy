@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.SnakesLadders",
+    "rootNamespace": "Tapzy.Games.SnakesLadders",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

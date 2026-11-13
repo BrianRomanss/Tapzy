@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.BlockFit",
+    "rootNamespace": "Tapzy.Games.BlockFit",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

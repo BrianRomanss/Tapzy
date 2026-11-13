@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Core",
+    "rootNamespace": "Tapzy.Core",
+    "references": [
+        "Tapzy.Contract",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

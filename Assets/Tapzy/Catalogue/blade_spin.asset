@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 952844fef224cdb498eabbb6d2148a9c, type: 3}
+  m_Name: blade_spin
+  m_EditorClassIdentifier: 
+  id: blade_spin
+  title: Blade Spin
+  kind: Arcade
+  sceneName: Game_BladeSpin
+  tileColour: {r: 0.6901961, g: 0.4862745, b: 1, a: 1}
+  icon: {fileID: 0}
+  order: 5
+  maxScorePerSecond: 6
+  scoreBase: 10
+  minDuration: 2
+  missionScore: 30

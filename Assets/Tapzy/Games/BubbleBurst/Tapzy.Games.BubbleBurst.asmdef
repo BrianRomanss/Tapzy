@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.BubbleBurst",
+    "rootNamespace": "Tapzy.Games.BubbleBurst",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

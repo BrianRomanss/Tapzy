@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.FourInARow",
+    "rootNamespace": "Tapzy.Games.FourInARow",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

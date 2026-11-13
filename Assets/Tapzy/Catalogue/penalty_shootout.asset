@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 952844fef224cdb498eabbb6d2148a9c, type: 3}
+  m_Name: penalty_shootout
+  m_EditorClassIdentifier: 
+  id: penalty_shootout
+  title: Penalty Shootout
+  kind: Sports
+  sceneName: Game_PenaltyShootout
+  tileColour: {r: 0.4862745, g: 1, b: 0.3019608, a: 1}
+  icon: {fileID: 0}
+  order: 10
+  maxScorePerSecond: 15
+  scoreBase: 1500
+  minDuration: 15
+  missionScore: 400

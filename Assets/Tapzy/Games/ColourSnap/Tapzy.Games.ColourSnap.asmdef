@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.ColourSnap",
+    "rootNamespace": "Tapzy.Games.ColourSnap",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

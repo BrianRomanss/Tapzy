@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.PenaltyShootout",
+    "rootNamespace": "Tapzy.Games.PenaltyShootout",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

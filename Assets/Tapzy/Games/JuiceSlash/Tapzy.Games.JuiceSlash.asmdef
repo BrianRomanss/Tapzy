@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.JuiceSlash",
+    "rootNamespace": "Tapzy.Games.JuiceSlash",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

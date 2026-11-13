@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.BladeSpin",
+    "rootNamespace": "Tapzy.Games.BladeSpin",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Tapzy.Games.DotsBoxes",
+    "rootNamespace": "Tapzy.Games.DotsBoxes",
+    "references": [
+        "Tapzy.GameKit",
+        "Tapzy.UI",
+        "UnityEngine.UI"
+    ],
+    "autoReferenced": false
+}
